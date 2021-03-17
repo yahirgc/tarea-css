@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+
+    <head>
+        <title>Lenguas indigenas en Oaxaca</title>
+            <link href="estilos.css" rel="stylesheet" type="text/css">
+    <head>
+
+
+<body>
+
+
+<table width="80" border="2" align="center" summary="informacion del censo de poblacion y vivienda 2010.">
+<caption class="estilo24">
+Las lenguas indigenas mas habladas en el estado de oaxaca son:</caption>
+
+
+<tr>
+    <th width="40" bgcolor="#d6a6fa" class="titulo" scope="col">Lengua indigena</th>
+    <th width="40" bgcolor="#d6a6fa" class="titulo" scope="col">Numero de habitantes (2010)</th>
+</tr>
+
+<tr>
+    <td><span class="normal">Lenguas Zapotecas</span></td>
+    <td class="derecha">371 740</td>
+</tr>
+
+<tr> 
+    <td><span class="normal" >Lenguas Mixtecas</span></td>
+    <td class="derecha" >264 047</td>
+</tr>
+
+<tr>
+    <td><span class="normal">Mazateco</span></td>
+    <td class="derecha">175 970</td>
+</tr>
+
+<tr>
+    <td><span class="normal">Mixe</span></td>
+    <td class="derecha">117 935</td>
+</tr>
+
+</table>
+
+<h5 align="center" class="achesinco">FUENTE: INEGI. Centro de Poblacion y Vivienda 2010</h5>
+<p align="center" class="subtitulo1">En Oaxaca, hay 1,165,186 personas mayores de 5 anios que hablan alguna lengua indigena, lo que representa 34% de la poblacion de la entidad.</p>
+
+
+
+
+</body>
+</html>

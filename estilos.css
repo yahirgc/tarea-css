@@ -1,0 +1,79 @@
+body {margin-left: 10px;
+           margin-top: 20px;
+           margin-right: 10px;
+           margin-bottom:5px;
+           background-color : #EDD9FC;}
+
+
+
+A {color: #7B18A7;}
+
+
+a:visited {color: #D6A6FA;}
+
+
+a:hover {color:#faefa6;}
+
+
+table {border-collapse: collapse;
+           border: 2px solid violet;
+           table-layout: fixed;
+           width:100%}
+
+
+td {padding: 5px;
+      border: 1px solid violet;}
+
+
+th {color:white;
+      background-color: violet;
+      padding: 5px}
+
+
+tr {height:45px;}
+
+
+.titulo {font-family:cambria, "Hoefler Text" , "Times New roman" , serif; 
+           font-size: 20px;
+           line-height: 30px;
+           background-color:#7b18a7;
+           color: #ffff66;
+           text-align: center;
+           font-style: normal;}
+
+
+.subtitulo1 {font-family: "Lucida Grande" , "Lucida Sans Unicode" , verdana; 
+                    font-size: 17px;
+                    line-height: 20px;
+                    font-weight: bold;
+                    color: #7b18a7;
+                    font-style: normal;
+                    text-align: center;}
+
+
+.normal  {font-family:cambria, "Hoefler Text" , "Times         New roman" , serif; 
+                 font-size: 14px;
+                 line-height: 20px;
+                 color:#7b18a7;
+                 font-weight: bold;
+                 text-align: justify;
+                 font-style: normal;}
+
+
+.derecha {font-family:cambria, "Hoefler Text" , "Times         New roman" , serif; 
+                 font-size: 14px;
+                 line-height: 20px;
+                 color:#7b18a7;
+                 font-weight: bold;
+                 text-align: right;
+                 font-style: normal;}
+
+
+.estilo24 {font-size: 24pt;
+                color: #fe7747;
+                text-align:center;}
+                
+                
+.achesinco  {font-size: 8pt;
+                color: #fe7747;
+                text-align:center;}
